@@ -1,0 +1,34 @@
+body {
+
+    background: #00151A;
+}
+
+.media {
+
+    position: relative;
+    background: #001510;
+}
+
+.thumbnail {
+
+    /*position: absolute;*/
+    float: left;
+}
+
+#thumbnailimg {
+
+    max-width: 150px;
+    height: auto;
+}
+
+.media-info {
+
+    /*position: absolute;*/
+    float: left;
+}
+
+.text {
+
+    font-family: "Courier New";
+    font-size: 12;
+}
