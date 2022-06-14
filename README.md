@@ -25,4 +25,4 @@
     - reliable
     - not reliant on memory
 ---
-# Absolutely no data to be logged whatsoever, user data and telemetry is for soy-devs
+# Absolutely no data to be logged whatsoever
